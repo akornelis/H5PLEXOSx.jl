@@ -1,12 +1,13 @@
-name = "H5PLEXOS"
-uuid = "30e9bc9d-95c1-474a-9a40-60ab4bafb5d2"
+name = "H5PLEXOSx"
+uuid = "e7e2b55f-84cd-4538-b128-ad5f14e3f4d5"
 authors = ["Gord Stephen <gord.stephen@nrel.gov>"]
 version = "0.6.6"
 
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
-PLEXOSUtils = "05faf425-d728-49da-9df3-01114615952c"
+InfoZIPx = "85c6e0d9-4115-4be7-bf85-ff2b3d30e22f"
+PLEXOSUtilsx = "d19dde98-b8c4-4cd6-bed4-e0b4b8aa10a8"
 
 [compat]
 julia = "1"
