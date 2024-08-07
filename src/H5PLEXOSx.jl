@@ -1,4 +1,4 @@
-module H5PLEXOS
+module H5PLEXOSx
 
 import Dates: DateTime, DateFormat, format
 import HDF5
